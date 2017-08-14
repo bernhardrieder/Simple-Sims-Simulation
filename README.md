@@ -9,3 +9,8 @@ This is an exercise for the Artificial Intelligence course at the UAS Technikum 
 ### Controls ###
 
 * see Unreal Engine settings and code
+
+|Desire|Threshold in %|
+|------|--------------|
+|drink|50|
+|eat|70|
